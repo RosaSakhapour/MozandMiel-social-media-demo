@@ -87,7 +87,6 @@ Rather than using AI as a simple text generator, I wanted to build a system that
 ### Generated Social Media Content
 
 <img width="1104" height="678" alt="Screen Shot 2026-10-08 at 7 46 05 PM" src="https://github.com/user-attachments/assets/dd9412a2-d8d6-40d9-9aad-03c4b4c98251" />
-### Pinterest SEO Variations
 
 ## Project Structure
 

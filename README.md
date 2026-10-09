@@ -88,6 +88,9 @@ Rather than using AI as a simple text generator, I wanted to build a system that
 
 <img width="1104" height="678" alt="Screen Shot 2026-10-08 at 7 46 05 PM" src="https://github.com/user-attachments/assets/dd9412a2-d8d6-40d9-9aad-03c4b4c98251" />
 
+<img width="1104" height="663" alt="image" src="https://github.com/user-attachments/assets/a33d0440-501e-4cc5-840d-e4219b329847" />
+
+
 ## Project Structure
 
 The application is organized around API handling, input components, prompt construction, platform-specific schemas, data validation, and reusable result components.

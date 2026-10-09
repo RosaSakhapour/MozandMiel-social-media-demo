@@ -6,10 +6,6 @@ An AI-powered social media content generation system I built for my food busines
 
 The goal was simple: I wanted to streamline the process of turning a single recipe or video into platform-specific content without manually rewriting everything for each social media platform.
 
-## Demo
-
-*Add your demo video or GitHub asset link here.*
-
 ## What It Does
 
 The system takes recipe and content information such as:

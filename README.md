@@ -29,20 +29,7 @@ Each platform has its own content requirements, so the application generates str
 
 ## Workflow
 
-Recipe Details and Video Context ->
-Next.js Application
-↓
-Platform-Specific Prompt Construction
-↓
-OpenAI API
-↓
-Structured JSON Output
-↓
-Response Parsing and Validation
-↓
-Normalized Platform-Specific Data
-↓
-Reusable React Components
+Recipe Details and Video Context, Next.js Application, Platform-Specific Prompt Construction, OpenAI API, Structured JSON Output, Response Parsing and Validation, Normalized Platform-Specific Data, Reusable React Components
 
 ## Tech Stack
 
